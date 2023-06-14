@@ -16,6 +16,6 @@
 <p><a href="http://Wa.me/201010563335" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://web.facebook.com/dandash119/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dandash119/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
 
 <!-- - whatsApp for bussines :http://Wa.me/201010563335
-- personal email : 27dandash@gmail.com
-- linkedIn : linkedin.com/in/ dandash119/
+- personal email : ms3byoussedf@gmail.com
+- linkedIn : https://www.linkedin.com/in/ms3byoussef/
  
